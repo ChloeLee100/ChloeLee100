@@ -1,7 +1,7 @@
 <h1> Hi, I'm Chloe Lee </h1>
 
 <p><i> Living in ACT, Australia </i></p>
-<p><i> Information Technology at <a href='https://www.canberra.edu.au'>University of Canberra</a></i></p>
+<p><i> Bachelor of Information Technology at <a href='https://www.canberra.edu.au'>University of Canberra</a></i></p>
 <br>
 <h2> I can code... </h2>
 <span>HTML&nbsp;&nbsp;</span>
@@ -9,6 +9,9 @@
 <span>JAVA&nbsp;&nbsp;</span>
 <span>JAVASCRIPT&nbsp;&nbsp;</span>
 <span>PYTHON&nbsp;&nbsp;</span>
+<span>JSP&nbsp;&nbsp;</span>
+<span>SpringBoot&nbsp;&nbsp;</span>
+<span>C&nbsp;&nbsp;</span>
 
 <br>
 <br>
@@ -19,6 +22,7 @@
       <li>Word 2016</li>
       <li>Excel 2016</li>
       <li>PowerPoint 2016</li>
+      <li>Access 2016</li>
     </ul>
   <li>Adobe Professional</li>
     <ul>
