@@ -31,6 +31,7 @@
       <li>Visual Design</li>
     </ul>
   <li>Google IT Support Professional Certificate</li>
+  <li>Google IT Automation with Python</li>
   <li>Cisco Networking Academy</li>
     <ul>
       <li>Course completion of Introduction to Internet of Things</li>
