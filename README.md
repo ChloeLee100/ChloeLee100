@@ -11,6 +11,7 @@
 <span>PYTHON&nbsp;&nbsp;</span>
 <span>JSP&nbsp;&nbsp;</span>
 <span>SpringBoot&nbsp;&nbsp;</span>
+<span>R&nbsp;&nbsp;</span>
 <span>C&nbsp;&nbsp;</span>
 
 <br>
